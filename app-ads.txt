@@ -2472,3 +2472,4 @@ videoheroes.tv, 212428, RESELLER, 064bc410192443d8
 video.unrulymedia.com, 475093422, RESELLER
 rubiconproject.com, 27714, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
+google.com, pub-2432960936342912, DIRECT, f08c47fec0942fa0
